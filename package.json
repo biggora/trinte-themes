@@ -1,0 +1,35 @@
+{
+  "optionalDependencies": {},
+  "keywords": [
+    "themes",
+    "bootstrap",
+    "trinte",
+    "trintejs",
+    "caminte",
+  ],
+  "engines": {"node": ">=0.6"},
+  "licenses": [],
+  "devDependencies": {"nodeunit": ">=0.5.4"},
+  "homepage": "http://www.trintejs.com/",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": {
+    "name": "Aleksej Gordejev",
+    "email": "aleksej@gordejev.lv",
+    "url": "https://github.com/biggora/"
+  },
+  "scripts": {"test": "nodeunit tests/test.js"},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/biggora/trinte-themes.git"
+  },
+  "directories": {
+    "lib": "lib",
+    "tests": "tests"
+  },
+  "dependencies": {
+    "trinte": ">=0.1.0"
+  },
+  "description": "Twitter Bootstrap Themes for TrinteJS Javascript MVC Framework",
+  "name": "trinte-themes"
+}
