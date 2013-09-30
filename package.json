@@ -5,7 +5,7 @@
     "bootstrap",
     "trinte",
     "trintejs",
-    "caminte",
+    "caminte"
   ],
   "engines": {"node": ">=0.6"},
   "licenses": [],
