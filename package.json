@@ -25,6 +25,7 @@
   },
   "directories": {
     "lib": "lib",
+    "themes": "themes",
     "tests": "tests"
   },
   "dependencies": {
