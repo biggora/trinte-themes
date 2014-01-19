@@ -1,3 +1,4 @@
+[![NPM version](https://badge.fury.io/js/trinte-themes.png)](http://badge.fury.io/js/trinte-themes)
 ## Bootstrap Themes for TrinteJS
 
 Twitter Bootstrap Themes for TrinteJS Javascript MVC Framework
