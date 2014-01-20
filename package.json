@@ -12,7 +12,7 @@
   "licenses": [],
   "devDependencies": {"nodeunit": ">=0.5.4"},
   "homepage": "http://www.trintejs.com/",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "./index.js",
   "author": {
     "name": "Aleksej Gordejev",
@@ -30,7 +30,7 @@
     "tests": "tests"
   },
   "dependencies": {
-    "trinte": ">=0.1.0"
+    "trinte": "0.2.x"
   },
   "description": "Twitter Bootstrap Themes for TrinteJS Javascript MVC Framework",
   "name": "trinte-themes"

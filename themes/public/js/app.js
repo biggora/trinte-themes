@@ -8,8 +8,8 @@ var Application = Application || {};
 Application.Core = function() {
     this.pathname = window.location.pathname;
     this.origin = window.location.origin;
-    this.csrf_token = $('meta[name=csrf-token]').attr('content');
-    this.csrf_param = $('meta[name=csrf-param]').attr('content');
+    this.csrf_token = $('meta[name=x-csrf-token]').attr('content');
+    this.csrf_param = $('meta[name=x-csrf-param]').attr('content');
     return this;
 };
 
