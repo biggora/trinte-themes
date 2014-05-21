@@ -187,7 +187,8 @@ Application.Core.prototype.typeahead = function() {
                             width: parseInt(tphInput.width()) * 1.06
                         });
                     }, 5);
-                    return data || [];
+                    var items = (data.items ? data.items : data);
+                    return items || [];
                 }
             }
         });
