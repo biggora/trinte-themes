@@ -7,7 +7,7 @@ Work only via [TrinteJS](https://github.com/biggora/trinte)
 
 ### Installation
 
-    npm install trinte-themes
+    npm install trinte-themes --save
 
 ### Themes
 

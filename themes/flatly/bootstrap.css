@@ -7761,6 +7761,41 @@ button.close {
 .messages {
   margin-top: 60px;
 }
+.btn-any.active,
+.btn-no.active,
+.btn-yes.active,
+.btn-any:hover,
+.btn-no:hover,
+.btn-yes:hover {
+  color: white;
+}
+.btn-yes {
+  color: #ffffff;
+}
+.btn-yes.active {
+  background-color: #010706;
+}
+.btn-yes:hover {
+  background-color: #0c6251 !important;
+}
+.btn-no {
+  color: #ffffff;
+}
+.btn-no.active {
+  background-color: #4d100a;
+}
+.btn-no:hover {
+  background-color: #a82315 !important;
+}
+.btn-any {
+  color: #ffffff;
+}
+.btn-any.active {
+  background-color: #0a2639;
+}
+.btn-any:hover {
+  background-color: #196090 !important;
+}
 input.ajax-loading {
   background-image: url('/img/ajax-small.gif');
   background-repeat: no-repeat;
