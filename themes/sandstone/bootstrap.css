@@ -7768,30 +7768,33 @@ button.close {
 }
 .btn-yes {
   color: #ffffff;
+  background-color: #93c54b;
 }
 .btn-yes.active {
-  background-color: #253311;
+  background-color: #5d8129;
 }
 .btn-yes:hover {
-  background-color: #5d8129 !important;
+  background-color: #79a736 !important;
 }
 .btn-no {
   color: #ffffff;
+  background-color: #d9534f;
 }
 .btn-no.active {
-  background-color: #4c1210;
+  background-color: #a02622;
 }
 .btn-no:hover {
-  background-color: #a02622 !important;
+  background-color: #c9302c !important;
 }
 .btn-any {
   color: #ffffff;
+  background-color: #29abe0;
 }
 .btn-any.active {
-  background-color: #082835;
+  background-color: #156b8e;
 }
 .btn-any:hover {
-  background-color: #156b8e !important;
+  background-color: #1b8dbb !important;
 }
 input.ajax-loading {
   background-image: url('/img/ajax-small.gif');
