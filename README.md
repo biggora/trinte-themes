@@ -3,9 +3,25 @@
 
 Twitter Bootstrap Themes for TrinteJS Javascript MVC Framework
 
+Work only via [TrinteJS](https://github.com/biggora/trinte)
+
 ### Installation
 
     npm install trinte-themes
+
+### Themes
+
+Used Free themes for Bootstrap from [Bootswatch](https://bootswatch.com/)
+
+* [Cerulean](https://bootswatch.com/cerulean/)
+* [Cosmo](https://bootswatch.com/cosmo/)
+* [Cyborg](https://bootswatch.com/cyborg/)
+* [Flatly](https://bootswatch.com/flatly/)
+* [Sandstone](https://bootswatch.com/sandstone/)
+* [Simplex](https://bootswatch.com/simplex/)
+* [United](https://bootswatch.com/united/)
+* [Yeti](https://bootswatch.com/yeti/)
+
 
 ### Copyright & License
 
