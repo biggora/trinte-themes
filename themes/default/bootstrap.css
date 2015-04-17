@@ -7770,28 +7770,28 @@ button.close {
   color: white;
 }
 .btn-yes {
-  color: #ffffff;
-  background-color: #5cb85c;
+  color: #333333;
+  background-color: #ffffff;
 }
 .btn-yes.active {
-  background-color: #357935;
+  background-color: #5cb85c;
 }
 .btn-yes:hover {
   background-color: #449d44 !important;
 }
 .btn-no {
-  color: #ffffff;
-  background-color: #d9534f;
+  color: #333333;
+  background-color: #ffffff;
 }
 .btn-no.active {
-  background-color: #a02622;
+  background-color: #d9534f;
 }
 .btn-no:hover {
   background-color: #c9302c !important;
 }
 .btn-any {
-  color: #ffffff;
-  background-color: #5bc0de;
+  color: #333333;
+  background-color: #ffffff;
 }
 .btn-any.active {
   background-color: #2390b0;
