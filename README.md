@@ -9,10 +9,17 @@ Work only via [TrinteJS](https://github.com/biggora/trinte)
 
     npm install trinte-themes --save
 
+## Dependencies
+
+- [jQuery 2.x](http://jquery.com/).
+- [Twitter Bootstrap 3.x](http://getbootstrap.com/).
+- [Font Awesome 3.x](http://fortawesome.github.io/Font-Awesome/).
+
 ### Themes
 
 Used Free themes for Bootstrap from [Bootswatch](https://bootswatch.com/)
 
+* [Default](http://getbootstrap.com/)
 * [Cerulean](https://bootswatch.com/cerulean/)
 * [Cosmo](https://bootswatch.com/cosmo/)
 * [Cyborg](https://bootswatch.com/cyborg/)
@@ -21,7 +28,9 @@ Used Free themes for Bootstrap from [Bootswatch](https://bootswatch.com/)
 * [Simplex](https://bootswatch.com/simplex/)
 * [United](https://bootswatch.com/united/)
 * [Yeti](https://bootswatch.com/yeti/)
-
+* [Darkly](https://bootswatch.com/darkly/)
+* [Superhero](https://bootswatch.com/superhero/)
+* [Slate](https://bootswatch.com/slate/)
 
 ### Copyright & License
 
