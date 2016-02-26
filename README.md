@@ -7,13 +7,21 @@ Work only via [TrinteJS](https://github.com/biggora/trinte)
 
 ### Installation
 
-    npm install trinte-themes --save
+    npm install trinte -g
+    
+### Create TrinteJS Application with Bootswatch Theme
+    
+    # add `--theme` argument
+    $ trinte -i HelloWorld --theme cosmo
+
+* `theme name must be lowercase`
 
 ## Dependencies
 
-- [jQuery 2.x](http://jquery.com/).
-- [Twitter Bootstrap 3.x](http://getbootstrap.com/).
-- [Font Awesome 3.x](http://fortawesome.github.io/Font-Awesome/).
+- [jQuery 2.2.x](http://jquery.com/).
+- [Twitter Bootstrap 3.3.6](http://getbootstrap.com/).
+- [Bootswatch 3.3.6](https://bootswatch.com/).
+- [Font Awesome 4.x](http://fortawesome.github.io/Font-Awesome/).
 
 ### Themes
 
@@ -23,14 +31,20 @@ Used Free themes for Bootstrap from [Bootswatch](https://bootswatch.com/)
 * [Cerulean](https://bootswatch.com/cerulean/)
 * [Cosmo](https://bootswatch.com/cosmo/)
 * [Cyborg](https://bootswatch.com/cyborg/)
+* [Darkly](https://bootswatch.com/darkly/)
 * [Flatly](https://bootswatch.com/flatly/)
+* [Journal](https://bootswatch.com/journal/)
+* [Lumen](https://bootswatch.com/lumen/)
+* [Paper](https://bootswatch.com/paper/)
+* [Readable](https://bootswatch.com/readable/)
 * [Sandstone](https://bootswatch.com/sandstone/)
 * [Simplex](https://bootswatch.com/simplex/)
 * [United](https://bootswatch.com/united/)
 * [Yeti](https://bootswatch.com/yeti/)
-* [Darkly](https://bootswatch.com/darkly/)
+* [Spacelab](https://bootswatch.com/spacelab/)
 * [Superhero](https://bootswatch.com/superhero/)
 * [Slate](https://bootswatch.com/slate/)
+
 
 ### Copyright & License
 

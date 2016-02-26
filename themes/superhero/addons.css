@@ -63,30 +63,30 @@ label.error {
 /* splash */
 .splash {
   padding: 1em;
-  color: #ebebeb;
-  background: #4e5d6c;
+  color: #EBEBEB;
+  background: #4E5D6C;
   background-attachment: fixed;
   margin-top: -10px;
 }
 .splash.splash-inverse {
-  color: #ebebeb;
-  background: #df691a;
+  color: #EBEBEB;
+  background: #DF691A;
 }
 .splash.splash-default p a {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 .splash.splash-default .brand-text {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 .splash.splash-inverse p a {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 .splash.splash-inverse .brand-text {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 /* Icons */
 .fa.fa-primary {
-  color: #df691a;
+  color: #DF691A;
 }
 .fa.fa-success {
   color: #5cb85c;
@@ -101,7 +101,7 @@ label.error {
   color: #d9534f;
 }
 .fa.fa-default {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 /* Buttons */
 .btn-inverse {
@@ -208,8 +208,8 @@ fieldset[disabled] .btn-inverse.active {
   border: 1px solid transparent;
 }
 .btn-yes {
-  color: #ffffff;
-  background-color: #4e5d6c;
+  color: #fff;
+  background-color: #4E5D6C;
 }
 .btn-yes.active,
 .btn-yes:focus,
@@ -225,8 +225,8 @@ fieldset[disabled] .btn-inverse.active {
   border-color: rgba(0, 0, 0, 0);
 }
 .btn-no {
-  color: #ffffff;
-  background-color: #4e5d6c;
+  color: #fff;
+  background-color: #4E5D6C;
 }
 .btn-no.active,
 .btn-no:focus,
@@ -242,8 +242,8 @@ fieldset[disabled] .btn-inverse.active {
   border-color: rgba(0, 0, 0, 0);
 }
 .btn-any {
-  color: #ffffff;
-  background-color: #4e5d6c;
+  color: #fff;
+  background-color: #4E5D6C;
 }
 .btn-any.active,
 .btn-any:focus,
@@ -334,11 +334,11 @@ a.sorter.headerSortDown {
   transition: all 0.4s ease 0s;
 }
 .sidebar-wrapper.default {
-  background-color: #4e5d6c;
+  background-color: #4E5D6C;
   border-color: transparent;
 }
 .sidebar-wrapper.inverse {
-  background-color: #df691a;
+  background-color: #DF691A;
   border-color: transparent;
 }
 .navbar-brand {
@@ -411,59 +411,59 @@ a.sorter.headerSortDown {
 }
 .sidebar-wrapper.default .sidebar-nav > a,
 .sidebar-wrapper.default .sidebar-nav > li a {
-  color: #ebebeb;
+  color: #EBEBEB;
   border-color: transparent;
 }
 .sidebar-wrapper.default .sidebar-nav li a:hover,
 .sidebar-wrapper.default .sidebar-nav li.active a:hover {
-  color: #ebebeb;
+  color: #EBEBEB;
   background-color: #39444e;
   text-decoration: none;
 }
 .sidebar-wrapper.default .sidebar-nav li.active a {
-  color: #ebebeb;
+  color: #EBEBEB;
   background: #39444e;
 }
 .sidebar-wrapper.default .sidebar-nav .sidebar-brand {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 .sidebar-wrapper.inverse .sidebar-nav > a,
 .sidebar-wrapper.inverse .sidebar-nav > li a {
-  color: #ebebeb;
+  color: #EBEBEB;
   border-color: transparent;
 }
 .sidebar-wrapper.inverse .sidebar-nav li a:hover,
 .sidebar-wrapper.inverse .sidebar-nav li.active a:hover {
-  color: #ebebeb;
+  color: #EBEBEB;
   background-color: #e98643;
   text-decoration: none;
 }
 .sidebar-wrapper.inverse .sidebar-nav li.active a {
-  color: #ebebeb;
+  color: #EBEBEB;
   background: #e98643;
 }
 .sidebar-wrapper.inverse .sidebar-nav .sidebar-brand {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 /* Boxes */
 .box {
-  color: #ffffff;
+  color: #fff;
 }
 .box a {
-  color: #ffffff;
+  color: #fff;
 }
 .box .box-inverse {
-  background-color: #df691a;
+  background-color: #DF691A;
 }
 .box .box-primary {
-  background-color: #df691a;
+  background-color: #DF691A;
 }
 .box .box-default {
-  color: #ebebeb;
-  background-color: #4e5d6c;
+  color: #EBEBEB;
+  background-color: #4E5D6C;
 }
 .box .box-default a {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 .box .box-success {
   background-color: #5cb85c;
@@ -481,7 +481,7 @@ a.sorter.headerSortDown {
 .widget {
   position: relative;
   margin-bottom: 10px;
-  border: 1px solid #4e5d6c;
+  border: 1px solid #4E5D6C;
 }
 .widget p {
   font-size: 100%;
@@ -499,7 +499,7 @@ a.sorter.headerSortDown {
   color: #fff;
 }
 .widget .widget-content-light small {
-  color: #4e5d6c;
+  color: #4E5D6C;
 }
 .widget .widget-icon,
 .widget .widget-image {
@@ -544,14 +544,14 @@ a.sorter.headerSortDown {
   left: 5px;
 }
 .widget.widget-default {
-  background-color: #4e5d6c;
+  background-color: #4E5D6C;
   border-color: transparent;
 }
 .widget.widget-default a {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 .widget.widget-default p {
-  color: #ebebeb;
+  color: #EBEBEB;
 }
 .widget.widget-default .widget-icon {
   color: transparent;
@@ -560,7 +560,7 @@ a.sorter.headerSortDown {
   color: rgba(102, 102, 102, 0);
 }
 .widget.widget-primary {
-  background-color: #df691a;
+  background-color: #DF691A;
   border-color: #b15315;
 }
 .widget.widget-primary a {
@@ -570,7 +570,7 @@ a.sorter.headerSortDown {
   color: #fff;
 }
 .widget.widget-primary .widget-icon {
-  color: #df691a;
+  color: #DF691A;
 }
 .widget.widget-primary .widget-content small {
   color: #f9decc;
@@ -783,51 +783,51 @@ a.sorter.headerSortDown {
   background-color: #999;
 }
 .bg-primary-dark {
-  color: #ffffff;
-  background-color: #df691a;
+  color: #fff;
+  background-color: #DF691A;
 }
 .bg-primary-dark a {
-  color: #ffffff;
+  color: #fff;
 }
 .bg-primary-dark a:hover {
   color: #f4c19e;
 }
 .bg-info-dark {
-  color: #ffffff;
+  color: #fff;
   background-color: #5bc0de;
 }
 .bg-info-dark a {
-  color: #ffffff;
+  color: #fff;
 }
 .bg-info-dark a:hover {
   color: #daf1f8;
 }
 .bg-warning-dark {
-  color: #ffffff;
+  color: #fff;
   background-color: #f0ad4e;
 }
 .bg-warning-dark a {
-  color: #ffffff;
+  color: #fff;
 }
 .bg-warning-dark a:hover {
   color: #fceedb;
 }
 .bg-danger-dark {
-  color: #ffffff;
+  color: #fff;
   background-color: #d9534f;
 }
 .bg-danger-dark a {
-  color: #ffffff;
+  color: #fff;
 }
 .bg-danger-dark a:hover {
   color: #f4cecd;
 }
 .bg-success-dark {
-  color: #ffffff;
+  color: #fff;
   background-color: #5cb85c;
 }
 .bg-success-dark a {
-  color: #ffffff;
+  color: #fff;
 }
 .bg-success-dark a:hover {
   color: #c7e6c7;
@@ -846,8 +846,8 @@ a.sorter.headerSortDown {
   text-decoration: none;
 }
 .panel-inverse > .panel-heading {
-  color: #ffffff;
-  background-color: #df691a;
+  color: #fff;
+  background-color: #DF691A;
 }
 .panel-inverse > .panel-heading:hover {
   background-color: #e98643;
