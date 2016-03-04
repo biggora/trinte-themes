@@ -2,7 +2,7 @@
   "name": "trinte-themes",
   "description": "Bootswatch Themes for TrinteJS Javascript MVC Framework",
   "homepage": "http://www.trintejs.com/",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "MIT",
   "keywords": [
     "themes",
